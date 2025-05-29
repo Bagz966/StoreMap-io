@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Store Map-Green Bean";
 const contentToCache = [
-    "Build/Map Test.loader.js",
-    "Build/Map Test.framework.js",
-    "Build/Map Test.data",
-    "Build/Map Test.wasm",
+    "Build/New Build.loader.js",
+    "Build/New Build.framework.js",
+    "Build/New Build.data",
+    "Build/New Build.wasm",
     "TemplateData/style.css"
 
 ];
